@@ -1,0 +1,12 @@
+numpy==1.23.5                # Pour la manipulation des données
+scikit-learn==1.2.2          # Pour le SVM et autres algorithmes de machine learning
+scikit-image==0.19.3         # Pour le traitement des images (redimensionnement, etc.)
+matplotlib==3.7.1            # Pour tracer les courbes (loss/accuracy)
+tensorflow==2.11.0           # Pour le CNN et l'entraînement
+pillow==9.5.0                # Pour la manipulation d'images (PIL)
+scikit-learn==1.2.2          # SCIKIT LEARN
+seaborn==0.12.2              # SEA BORN
+pandas==1.5.2                # PANDAS
+
+
+
